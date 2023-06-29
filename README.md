@@ -1,4 +1,4 @@
-# Ib-Scraping-the-Premier-League
+# Web-Scraping-the-Premier-League
 
 # Introduction
 This project is aimed at scraping data from the Premier League website using the Scrapy framework. The goal was to extract match details for all the matches played in the Premier League for the last five years. The data scraped includes the date, season, referee name, stadium name, Home Team Name, Home Team Score, Away Team Name, and Away Team Score. Additionally, we scraped details for both the home and away teams including possession %, shots on target, shots, touches, passes, tackles, clearances, corners, offsides, yellow cards and fouls conceded.
